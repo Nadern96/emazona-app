@@ -1,6 +1,7 @@
 import React from 'react';
 import Rating from './Rating';
 
+
 export default function Product({product}) {
 	return (
 	  <div className="card">
